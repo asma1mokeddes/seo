@@ -38,7 +38,11 @@
 	$body = ob_get_contents();
 	ob_end_clean();
 	
+<<<<<<< HEAD
 	$to = 'support@chefretard.com';
+=======
+	$to = 'support@fruitkha.com';
+>>>>>>> b5d871de37a1acf6e181402b7960b756b7472b75
 
 	$s = mail($to,$subject,$body,$headers,"-t -i -f $from");
 
