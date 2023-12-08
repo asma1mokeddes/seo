@@ -37,8 +37,8 @@
 	<?php
 	$body = ob_get_contents();
 	ob_end_clean();
-	
-	$to = 'support@fruitkha.com';
+
+	$to = 'support@chefretard.com';
 
 	$s = mail($to,$subject,$body,$headers,"-t -i -f $from");
 
