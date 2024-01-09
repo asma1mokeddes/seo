@@ -1567,6 +1567,17 @@ div.owl-controls, .owl-controls div {
   background-image: url(../img/latest-news/news-bg-6.jpg);
 }
 
+.news-bg-7 {
+  background-image: url(../img/latest-news/news-bg-7.jpg);
+}
+
+.news-bg-8 {
+  background-image: url(../img/latest-news/news-bg-8.jpg);
+}
+
+.news-bg-9 {
+  background-image: url(../img/latest-news/news-bg-9.jpg);
+}
 .latest-news-bg {
   height: 200px;
   background-size: cover;
@@ -1622,10 +1633,28 @@ p.excerpt {
 }
 
 .single-artcile-bg {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
+  background-image: url(../img/latest-news/news-bg-9.jpg);
+  height: 450px;
+}
+.single-artcile1-bg {
+  background-image: url(../img/latest-news/news-bg-10.jpg);
   height: 450px;
 }
 
+.single-artcile2-bg {
+  background-image: url(../img/latest-news/news-bg-4.jpg);
+  height: 450px;
+}
+
+.single-artcile8-bg {
+  background-image: url(../img/latest-news/news-bg-8.jpg);
+  height: 450px;
+}
+
+.single-artcile11-bg {
+  background-image: url(../img/latest-news/news-bg-11.jpg);
+  height: 450px;
+}
 .pagination-wrap {
   margin-top: 40px;
 }
@@ -1656,7 +1685,7 @@ p.excerpt {
   background-color: #F28123;
 }
 
-.single-artcile-bg {
+.single-artcile-bg, .single-artcile1-bg, .single-artcile11-bg, .single-artcile8-bg {
   background-size: cover;
   background-position: center;
   background-color: #ddd;

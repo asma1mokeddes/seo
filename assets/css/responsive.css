@@ -501,7 +501,7 @@
 	.featured-text p {
 	    line-height: 1.8;
 	}
-	.single-artcile-bg {
+	.single-artcile-bg, .single-artcile1-bg, .single-artcile11-bg, .single-artcile8-bg {
 	    height: 300px;
 	}
 
